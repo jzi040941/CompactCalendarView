@@ -1,6 +1,11 @@
 <resources>
-    <string name="app_name">sample</string>
+    <string name="app_name">Group Scheduler</string>
 
     <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+
+    <string name="action_logout">Logout</string>
+
+    <string name="login_with_password">Login with Password</string>
+    <string name="login_anonymously">Login Anonymously</string>
+    <string name="email_pw_error">E-mail or password is wrong</string>
 </resources>
